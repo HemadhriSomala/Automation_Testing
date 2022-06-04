@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-14T19:16:26Z" name="Suite" finished-at="2022-05-14T19:16:30Z" duration-ms="4430">
+    <groups>
+    </groups>
+    <test started-at="2022-05-14T19:16:26Z" name="Test" finished-at="2022-05-14T19:16:30Z" duration-ms="4430">
+      <class name="testcase.TC_VideoGameAPITC">
+        <test-method signature="test_getAllVideoGames()[pri:1, instance:testcase.TC_VideoGameAPITC@11bb571c]" started-at="2022-05-14T19:16:26Z" name="test_getAllVideoGames" finished-at="2022-05-14T19:16:28Z" duration-ms="1903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method signature="test_addNewVideoGame()[pri:2, instance:testcase.TC_VideoGameAPITC@11bb571c]" started-at="2022-05-14T19:16:28Z" name="test_addNewVideoGame" finished-at="2022-05-14T19:16:29Z" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method signature="test_getVideoGame()[pri:3, instance:testcase.TC_VideoGameAPITC@11bb571c]" started-at="2022-05-14T19:16:29Z" name="test_getVideoGame" finished-at="2022-05-14T19:16:30Z" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method signature="test_UpdateVideoGame()[pri:4, instance:testcase.TC_VideoGameAPITC@11bb571c]" started-at="2022-05-14T19:16:30Z" name="test_UpdateVideoGame" finished-at="2022-05-14T19:16:30Z" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_UpdateVideoGame -->
+        <test-method signature="test_DeleteVideoGame()[pri:5, instance:testcase.TC_VideoGameAPITC@11bb571c]" started-at="2022-05-14T19:16:30Z" name="test_DeleteVideoGame" finished-at="2022-05-14T19:16:30Z" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DeleteVideoGame -->
+      </class> <!-- testcase.TC_VideoGameAPITC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

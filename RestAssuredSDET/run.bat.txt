@@ -1,0 +1,2 @@
+cd C:\Users\badhr\eclipse-workspace\RestAssuredSDET
+mvn clean install
