@@ -68,7 +68,7 @@ public class Steps extends BaseClass{
 	public void click_on_login() throws InterruptedException {
 		lp.clickLogin();
 		
-		System.out.println("Testing1234");
+		System.out.println("Testing12346");
 		
 		Thread.sleep(3000);
 		
