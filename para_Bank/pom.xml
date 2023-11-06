@@ -139,6 +139,29 @@
       <systemPath>C:\Program Files\Java\jdk1.8.0_202\lib\tools.jar</systemPath>
       
      </dependency>
+  <dependency>
+   <groupId>org.apache.poi</groupId>
+   <artifactId>poi</artifactId>
+   <version>3.9</version>
+</dependency>
+<dependency>
+   <groupId>xml-apis</groupId>
+   <artifactId>xml-apis</artifactId>
+   <version>1.4.01</version>
+</dependency>
+<dependency>
+   <groupId>org.apache.poi</groupId>
+   <artifactId>poi-ooxml</artifactId>
+   <version>3.9</version>
+   <exclusions>
+     <exclusion>
+       <artifactId>xml-apis</artifactId>
+       <groupId>xml-apis</groupId>
+     </exclusion>       
+   </exclusions>
+</dependency>
+
+
     
     
   </dependencies>
